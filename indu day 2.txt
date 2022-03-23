@@ -1,0 +1,19 @@
+Pk innovatives
+Day 2 report
+Topics covered :
+What is Selenium?
+Selenium is a free (open-source) automated testing framework used to validate web applications across different browsers and platforms.
+1. Selenium Integrated Development 
+2.Environment (IDE)
+3.Selenium Remote Control (RC)
+4.WebDriver
+5.Selenium Grid
+Who developed Selenium?
+Birth of Selenium Remote Control (Selenium RC)
+Birth of Selenium Grid
+Birth of Selenium IDEBirth of WebDriverBirth of Selenium 2So, Why the Name Selenium?
+Birth of Selenium IDE
+Birth of WebDriver
+Birth of Selenium 2
+So, Why the Name Selenium?
+These are all the topics I covered in theory part
